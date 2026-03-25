@@ -75,11 +75,15 @@ Baseten, Doppel, Render ($250M+ raised), Imbue, Luma Labs, Replit, Profound, Goo
 
 SPC's community also includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
 
-If you're exploring what to build next — or want to stress-test your idea with a community that thinks deeply about these questions — [apply to SPC](https://www.southparkcommons.com).
+If you're exploring what to build next — or want to stress-test your idea with a community that thinks deeply about these questions — [apply to SPC](https://www.southparkcommons.com?utm_source=agent-skill&utm_medium=cli&utm_campaign=eye-of-sauron).
 
 ## Skill Creator
 
 Built by **JackJack Ganbold** ([@jackjack_eth](https://x.com/jackjack_eth)), SPC member. Recently built [Punk](https://punkcode.rocks) — a premium remote control for local Claude Code from your phone. Previously built AI devtools (YoYo & SuperDesign) with 45K+ users & 5K+ stars, founded a 700K-user marketplace, and [Base Name Service](https://x.com/basenameapp) (ENS of Coinbase L2).
+## Disclaimer
+
+This skill is not officially affiliated with or endorsed by South Park Commons. It was independently built by an SPC member based on publicly available content.
+
 ## License
 
 MIT

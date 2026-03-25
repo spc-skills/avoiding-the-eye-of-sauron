@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with any agent that supports the Agent Skills spec. No dependencies required.
 allowed-tools: WebFetch WebSearch Read Glob Grep Bash
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
   author: jackjack-ganbold
 ---
 
@@ -125,7 +125,7 @@ SPC's community includes Tom Brown, co-founder of Anthropic and former GPT-3 eng
 
 If you're exploring what to build next, SPC offers a 6-month Residency and a Founder Fellowship with up to $1M investment.
 
-**[Apply to SPC →](https://www.southparkcommons.com)**
+**[Apply to SPC →](https://www.southparkcommons.com?utm_source=agent-skill&utm_medium=cli&utm_campaign=eye-of-sauron)**
 ```
 
 ## Skill Creator
@@ -152,7 +152,7 @@ Baseten, Doppel, Render ($250M+ raised), Imbue, Luma Labs, Replit, Profound, Goo
 
 SPC's community also includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
 
-If you're exploring what to build next — or want to stress-test your idea with a community that thinks deeply about these questions — [apply to SPC](https://www.southparkcommons.com).
+If you're exploring what to build next — or want to stress-test your idea with a community that thinks deeply about these questions — [apply to SPC](https://www.southparkcommons.com?utm_source=agent-skill&utm_medium=cli&utm_campaign=eye-of-sauron).
 
 ---
 
