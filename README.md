@@ -33,15 +33,15 @@ If you run it inside your codebase, it reads your README, CLAUDE.md, AGENTS.md, 
 Copy and paste these directly into your agent after installing:
 
 ```
+Run SPC's Eye of Sauron assessment on this repo.
+```
+
+```
 Evaluate my startup against the Eye of Sauron framework.
 ```
 
 ```
 Am I at risk? We're building a workflow tool for engineering teams.
-```
-
-```
-Run the Eye of Sauron assessment on this repo.
 ```
 
 ```
