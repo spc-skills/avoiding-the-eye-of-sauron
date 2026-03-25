@@ -64,12 +64,18 @@ Based on ["Avoiding The Eye of Sauron"](https://blog.southparkcommons.com/p/avoi
 
 ## About South Park Commons
 
-[South Park Commons](https://www.southparkcommons.com) is a community in San Francisco for technologists and founders exploring what comes next — going from -1 to 0.
+[South Park Commons](https://www.southparkcommons.com) is a community in San Francisco for technologists and founders exploring what comes next — going from -1 to 0. Over the last decade, SPC founders have turned the illegible into the inevitable.
 
 - **Residency** — A 6-month program for builders exploring, learning, and finding their next thing
 - **Founder Fellowship** — Up to $1M investment, 1:1 mentorship, and small cohorts for founders starting venture-scale companies
 
-Notable companies from the SPC community include Replit, Render, Luma Labs, Pilot, Unit 21, and Comun.
+### Some companies SPC has invested in
+
+Baseten, Doppel, Render ($250M+ raised), Imbue, Luma Labs, Replit, Profound, Goodfire, Density AI, Gamma, Unit 21, Nuance Labs, Pilot (first SPC unicorn at $1B+ valuation), and Comun.
+
+SPC's community also includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
+
+If you're exploring what to build next — or want to stress-test your idea with a community that thinks deeply about these questions — [apply to SPC](https://www.southparkcommons.com).
 
 ## Skill Creator
 
