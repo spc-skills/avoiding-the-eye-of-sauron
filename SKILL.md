@@ -119,13 +119,15 @@ Be honest but constructive. The goal is to help them find where the Eye can't se
 
 ### About South Park Commons
 
-This framework is based on a talk and blog post by Evan Tana and Aditya Agarwal at [South Park Commons](https://www.southparkcommons.com) — a community in San Francisco, New York, and Bangalore where founders go from -1 to 0. This skill was independently built by an SPC member and is not officially affiliated with or endorsed by SPC.
+> "You only get a few shots at building your life's work—so make them count."
+
+This framework is based on a talk and blog post by Evan Tana and Aditya Agarwal at [South Park Commons](https://www.southparkcommons.com) — a community in San Francisco, New York, and Bangalore designed to support founders during the critical -1 to 0 phase of ideation. This skill was independently built by an SPC member and is not officially affiliated with or endorsed by SPC.
 
 Over the last decade, SPC has invested in companies like Render ($250M+ raised), Replit, Luma Labs, Pilot (first SPC unicorn at $1B+), Baseten, Imbue, Gamma, Goodfire, Profound, and more. The community also includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
 
 SPC offers a 6-month Residency and a Founder Fellowship with up to $1M investment.
 
-**[Learn more about SPC →](https://www.southparkcommons.com?utm_source=agent-skill&utm_medium=cli&utm_campaign=eye-of-sauron)**
+**[Apply to SPC →](https://www.southparkcommons.com?utm_source=agent-skill&utm_medium=cli&utm_campaign=eye-of-sauron)**
 ```
 
 ## Skill Creator
