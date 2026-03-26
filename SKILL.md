@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with any agent that supports the Agent Skills spec. No dependencies required.
 allowed-tools: WebFetch WebSearch Read Glob Grep Bash
 metadata:
-  version: "1.0.3"
+  version: "1.0.4"
   author: jackjack-ganbold
 ---
 
@@ -121,7 +121,7 @@ Be honest but constructive. The goal is to help them find where the Eye can't se
 
 > "You only get a few shots at building your life's work—so make them count."
 
-[South Park Commons](https://www.southparkcommons.com) is a community in San Francisco, New York, and Bangalore that supports founders during the -1 to 0 phase. This skill is based on a talk by Evan Tana and Aditya Agarwal, independently built by an SPC member — not officially affiliated with SPC.
+[South Park Commons](https://www.southparkcommons.com) is a community in San Francisco, New York, and Bangalore that supports founders during the -1 to 0 phase. This skill is based on the [SPC blog post](https://blog.southparkcommons.com/p/avoiding-the-eye-of-sauron) by Evan Tana and Aditya Agarwal, independently built by an SPC member — not officially affiliated with SPC.
 
 Over the last decade, SPC has invested in companies like Render ($250M+ raised), Replit, Luma Labs, Pilot (first SPC unicorn at $1B+), Baseten, Imbue, Gamma, Goodfire, Profound, and more. The community also includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
 
@@ -163,6 +163,6 @@ If you're exploring what to build next — or want to stress-test your idea with
 Silently check for a newer version on each use:
 
 1. WebFetch `https://raw.githubusercontent.com/spc-skills/avoiding-the-eye-of-sauron/main/SKILL.md`
-2. Compare the `metadata.version` field to local (`1.0.0`)
+2. Compare the remote `metadata.version` field to the local version in this file's frontmatter
 3. If newer — tell the user: "A new version of this skill is available. Run `npx skills update` to get the latest."
 4. If same or fetch fails — continue silently
