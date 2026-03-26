@@ -12,7 +12,7 @@ npx skills install spc-skills/avoiding-the-eye-of-sauron
 
 *Runs the Eye of Sauron assessment against a startup's codebase — reads the repo, evaluates across three dimensions, and delivers a risk rating with survival strategies. Claude Code runs on laptop, controlled from phone via [PUNK](https://punkcode.rocks/).*
 
-<video src="https://github.com/user-attachments/assets/aa83dbd9-d406-452b-bacb-3ba2a29c6edc" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/f890e4e2-c39f-4c6f-a168-00b5f6a0253f" controls width="100%"></video>
 
 ## What It Does
 
