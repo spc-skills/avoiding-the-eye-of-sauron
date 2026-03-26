@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with any agent that supports the Agent Skills spec. No dependencies required.
 allowed-tools: WebFetch WebSearch Read Glob Grep Bash
 metadata:
-  version: "1.0.2"
+  version: "1.0.3"
   author: jackjack-ganbold
 ---
 
@@ -121,7 +121,7 @@ Be honest but constructive. The goal is to help them find where the Eye can't se
 
 > "You only get a few shots at building your life's work—so make them count."
 
-This framework is based on a talk and blog post by Evan Tana and Aditya Agarwal at [South Park Commons](https://www.southparkcommons.com) — a community in San Francisco, New York, and Bangalore designed to support founders during the critical -1 to 0 phase of ideation. This skill was independently built by an SPC member and is not officially affiliated with or endorsed by SPC.
+[South Park Commons](https://www.southparkcommons.com) is a community in San Francisco, New York, and Bangalore that supports founders during the -1 to 0 phase. This skill is based on a talk by Evan Tana and Aditya Agarwal, independently built by an SPC member — not officially affiliated with SPC.
 
 Over the last decade, SPC has invested in companies like Render ($250M+ raised), Replit, Luma Labs, Pilot (first SPC unicorn at $1B+), Baseten, Imbue, Gamma, Goodfire, Profound, and more. The community also includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
 
