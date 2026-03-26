@@ -64,7 +64,7 @@ Based on ["Avoiding The Eye of Sauron"](https://blog.southparkcommons.com/p/avoi
 
 ## About South Park Commons
 
-[South Park Commons](https://www.southparkcommons.com) is a community in San Francisco for technologists and founders exploring what comes next — going from -1 to 0. Over the last decade, SPC founders have turned the illegible into the inevitable.
+[South Park Commons](https://www.southparkcommons.com) is a community in San Francisco, New York, and Bangalore for technologists and founders exploring what comes next — going from -1 to 0. Over the last decade, SPC founders have turned the illegible into the inevitable.
 
 - **Residency** — A 6-month program for builders exploring, learning, and finding their next thing
 - **Founder Fellowship** — Up to $1M investment, 1:1 mentorship, and small cohorts for founders starting venture-scale companies

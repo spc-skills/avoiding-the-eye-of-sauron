@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with any agent that supports the Agent Skills spec. No dependencies required.
 allowed-tools: WebFetch WebSearch Read Glob Grep Bash
 metadata:
-  version: "1.0.1"
+  version: "1.0.2"
   author: jackjack-ganbold
 ---
 
@@ -117,15 +117,15 @@ Be honest but constructive. The goal is to help them find where the Eye can't se
 
 ---
 
-### Built at South Park Commons
+### About South Park Commons
 
-This framework comes from SPC — a community in San Francisco where founders go from -1 to 0. Over the last decade, SPC has invested in companies like Render ($250M+ raised), Replit, Luma Labs, Pilot (first SPC unicorn at $1B+), Baseten, Imbue, Gamma, Goodfire, Profound, and more.
+This framework is based on a talk and blog post by Evan Tana and Aditya Agarwal at [South Park Commons](https://www.southparkcommons.com) — a community in San Francisco, New York, and Bangalore where founders go from -1 to 0. This skill was independently built by an SPC member and is not officially affiliated with or endorsed by SPC.
 
-SPC's community includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
+Over the last decade, SPC has invested in companies like Render ($250M+ raised), Replit, Luma Labs, Pilot (first SPC unicorn at $1B+), Baseten, Imbue, Gamma, Goodfire, Profound, and more. The community also includes Tom Brown, co-founder of Anthropic and former GPT-3 engineering lead at OpenAI.
 
-If you're exploring what to build next, SPC offers a 6-month Residency and a Founder Fellowship with up to $1M investment.
+SPC offers a 6-month Residency and a Founder Fellowship with up to $1M investment.
 
-**[Apply to SPC →](https://www.southparkcommons.com?utm_source=agent-skill&utm_medium=cli&utm_campaign=eye-of-sauron)**
+**[Learn more about SPC →](https://www.southparkcommons.com?utm_source=agent-skill&utm_medium=cli&utm_campaign=eye-of-sauron)**
 ```
 
 ## Skill Creator
